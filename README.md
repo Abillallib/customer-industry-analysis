@@ -10,5 +10,14 @@ Python NLP: Applies stemming and lemmatization to normalized terms, producing ro
 Output:
 
 -Term frequency tables with root words
--Excel for further analysis and categorization
+-Excel for further analysis and industry categorization
 -Optional word cloud visualizations for quick insights
+
+
+### Example Term Frequency and Industry Categorization Output
+
+| Term         | Frequency | Root Word | Main Industry                       |
+|--------------|-----------|-----------|-------------------------------------|
+| trucking     | 500       | truck     | Transportation, Haulage & Logistics |
+| construction | 350       | construct | Construction & Real Estate          |
+| auto         | 200       | auto      | Automotive                          |
