@@ -9,8 +9,6 @@ Python NLP: Applies stemming and lemmatization to normalized terms, producing ro
 
 Output:
 
-Term frequency tables with root words
-
-Excel/TXT files for further analysis
-
-Optional word cloud visualizations for quick insights
+-Term frequency tables with root words
+-Excel for further analysis and categorization
+-Optional word cloud visualizations for quick insights
